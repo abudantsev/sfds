@@ -11,6 +11,7 @@ def random_predict(number:int=1) -> int:
     """
 
     count = 0
+    predict_number = 50
 
     while True:
         count += 1
